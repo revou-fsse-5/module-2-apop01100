@@ -29,18 +29,21 @@ The project has been successfully deployed using Vercel. You can access the prod
     Go to dashboard Vercel -> Choose The Project -> Domain :
 
     Dashoboard Verchel
+   
     ![alt text](./src/docs/image-5.png)
 
     The Project
+   
     ![alt text](./src/docs/image-6.png)
 
     Select Domain
+   
     ![alt text](./src/docs/image-7.png)
 
     Import your customize domain, and make sure DNS/Nameserver in NiagaHoster same in Vercel. You can setting DNS/Nameserver Niagahoster in same page Niagahoster domain above:
     ![alt text](./src/docs/image-8.png)
 
-4. Congartulaitons, Your's done!
+5. Congartulaitons, Your's done!
 
     You should wait within 1x24 hours to let the NiagaHoster setting up the DNS, it could be faster or slower depending on the provider internet that you're using. If you success in this step, the output will be  like this in your Vercel project domain:
     ![alt text](./src/docs/image-9.png)
