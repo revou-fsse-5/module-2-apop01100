@@ -47,4 +47,4 @@ The project has been successfully deployed using Vercel. You can access the prod
 
     And this looks like the project with new domain:
 
-    ![alt text](image-1.png)
+    ![alt text](./src/docs/image-10.png)
